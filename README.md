@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable, reliable, 
 ---
 ## 📝 **Blog Posts**
 
-I occasionally write about DevOps, cloud computing, and automation. Check out my latest posts on [Hashnode]([https://medium.com/@yourhandle](https://devopsnow.hashnode.dev/))!
+I occasionally write about DevOps, cloud computing, and automation. Check out my latest posts on [Hashnode]([https://medium.com/@yourhandle])!
 
 
 ## 🚀 **What I'm Currently Learning**
