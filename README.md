@@ -54,17 +54,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable, reliable, 
 - **Rust for Systems Programming**: Building high-performance, safe, and concurrent systems.
 - **Cloud-Native Security**: Deep diving into securing containerized environments.
 
----
-
-## 📝 **Blog Posts**
-
-I occasionally write about DevOps, cloud computing, and automation. Check out my latest posts on [Medium](https://medium.com/@yourhandle)!
-
----
-
-## 💬 **Let's Collaborate!**
-
-I'm always open to collaborating on interesting projects or discussing ideas. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yourprofile/) or [email](mailto:youremail@example.com).
 
 ---
 
