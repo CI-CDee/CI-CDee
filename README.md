@@ -37,16 +37,10 @@ Welcome to my GitHub profile! I'm passionate about building scalable, reliable, 
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 📝 **Blog Posts**
 
----
+I occasionally write about DevOps, cloud computing, and automation. Check out my latest posts on [Hashnode]([https://medium.com/@yourhandle](https://devopsnow.hashnode.dev/))!
 
-## 🌐 **Connect with Me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
-
----
 
 ## 🚀 **What I'm Currently Learning**
 
